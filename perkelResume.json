@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "Ross Perkel",
+    "label": "Programmer",
+    "picture": "https://laurellmccaffrey.com/static/media/me.1d3a898a.jpeg",
+    "email": "rossperkel@gmail.com",
+    "phone": "(608) 206-0750",
+    "website": "http://rossperkel.com",
+    "summary": "Full stack software developer with a strong enthusiasm for art and connectivity. I discovered web development through working at an auction software company. I bring strong skills in research and writing that help foster team productivity and collaboration. If I’m not in front of a computer or piece of art, you can find me hiking or biking somewhere with more trees than people.",
+    "location": {
+      "city": "Brooklyn",
+      "countryCode": "US",
+      "region": "New York"
+    },
+    "technicalSkills": {
+    "name": "Web Development",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "React",
+      "Ruby on Rails",
+      "Ruby",
+      "SQL",
+      "PostgreSQL",
+      "Gatsby",
+      "GrahpQL"
+
+    ]},
+    "profiles": [{
+    "network": "GitHub",
+    "username": "AvalancheOfFox",
+    "url": "https://github.com/AvalancheOfFox"
+    }, {
+    "network": "LinkedIn",
+    "username": "rossmichaelperkel",
+    "url": "https://www.linkedin.com/in/rossmichaelperkel/"
+    }, {
+    "network": "Medium",
+    "username": "rossmichael",
+    "url": "https://medium.com/@rossmichael"
+    }],
+  "work": [{
+    "company": "Hearst Digital Media",
+    "position": "Video Editor",
+    "website": "https://www.delish.com/",
+    "startDate": "2017-04",
+    "endDate": "2018-04",
+    "summary": "Managed an Agile process of more than 20 video projects and formats each week. Produced & edited more than 50 videos that broke the million view mark on socials. Created LUTS for faster color grading of commonly occurring color palettes."
+  }, {
+    "company": "Fresco News",
+    "position": "Content Producer",
+    "website": "https://www.fresconews.com/",
+    "startDate": "2016-06",
+    "endDate": "2017-05",
+    "summary": "Quality controlled each submission before passing it to station affiliates. Wrote a case study on how to improve UX of the app and decreased our customer support inquiries by ~20%. Helped improve design of user profiles and implemented a system to alert users of breaking news in their areas."
+    }, {
+    "company": "New York University",
+    "position": "Multimedia Assistant",
+    "website": "https://www.nyu.edu/",
+    "startDate": "2016-06",
+    "endDate": "2019-05",
+    "summary": "Provided digital media support to an NYU Journalism professor and students in his classes. Guided class discussions for sections of Race, Culture and American Football as well as Journalism on the Road. Created a standardized repository of all assignments to assist Professor in remaining organized across disparate classes."
+    }]
+    }, 
+  "education": [{
+    "institution": "Flatiron School",
+    "area": "Software Engineering Immersive Bootcamp",
+    "startDate": "2019-07",
+    "endDate": "2019-10",
+    "courses": [
+      "Javascript",
+      "React",
+      "Ruby on Rails",
+      "Ruby",
+      "HTML",
+      "CSS",
+      "PostgreSQL",
+      "SQL"
+    ]
+  }, {
+    "institution": "New York University",
+    "majors": ["Journalism", "Political Science"],
+    "studyType": "Bachelor",
+    "startDate": "2012-09",
+    "endDate": "2016-05",
+    "gpa": "3.6"
+  }],
+  "skills": [{
+    "name": "Journalism",
+    "keywords": [
+      "Communicaton",
+      "Research",
+      "Written Communicaton",
+      "Digital Media",
+      "Design",
+      "Organization",
+      "Storytelling"
+    ],
+    "name": "Political Science",
+    "keywords": [
+      "Communicaton",
+      "Analysis",
+      "Research",
+      "Game Theory",
+      "Statistics",
+      "Economics"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Music",
+    "keywords": [
+      "Guitar",
+      "Bass",
+      "DAWs"
+    ]
+  }]
+}
